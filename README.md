@@ -19,7 +19,7 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 
 | # | Assignment Name | Link |
 |---|------------------|------|
-| 1️⃣ | Assigment-1 | [View](https://js-1-assigment.netlify.app/) |
+| 1️⃣ | Assigment-1 | [View](https://javascripts-01.netlify.app/) |
 | 2️⃣ | Assigment-2 | [View](https://js-2-asslgment.netlify.app/) |
 | 3️⃣ | Assigment-3 | [View](https://js-3-assigment.netlify.app/) |
 | 4️⃣ | Assigment-4 | [View](https://js-4-assigment.netlify.app/) |
