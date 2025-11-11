@@ -44,6 +44,6 @@ These assignments help me strengthen my **JavaScript fundamentals**, improve **p
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/meer-balach/js-assigment.git
+   git clone https://github.com/Onais-Shafi/Js-assingments.git
 
 
