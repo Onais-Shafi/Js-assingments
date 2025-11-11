@@ -20,14 +20,13 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 | # | Assignment Name | Link |
 |---|------------------|------|
 | 1️⃣ | Assigment-1 | [View](https://javascripts-01.netlify.app/) |
-| 2️⃣ | Assigment-2 | [View](https://js-2-asslgment.netlify.app/) |
-| 3️⃣ | Assigment-3 | [View](https://js-3-assigment.netlify.app/) |
-| 4️⃣ | Assigment-4 | [View](https://js-4-assigment.netlify.app/) |
-| 5️⃣ | Assigment-5 | [View](https://js-5-assigment.netlify.app/) |
-| 6️⃣ | Assigment-6 | [View](https://js-6-assigment.netlify.app/) |
-| 7️⃣ | Assigment-7 | [View](https://js-7-assigment.netlify.app/) |
-| 8️⃣ | Assigment-8 | [View](https://js-8-assigment.netlify.app/) |
-| 9️⃣ | Assigment-9 | [View](https://js-9-assigment.netlify.app/) |
+| 2️⃣ | Assigment-2 | [View](https://javascripts-02.netlify.app/) |
+| 3️⃣ | Assigment-3 | [View](https://javascripts-03.netlify.app/) |
+| 4️⃣ | Assigment-4 | [View](https://javascripts-04.netlify.app/) |
+| 5️⃣ | Assigment-5 | [View](https://javascripts-05.netlify.app/) |
+| 6️⃣ | Assigment-6 | [View](https://javascripts-06.netlify.app/) |
+| 7️⃣ | Assigment-7 | [View](https://javascripts-07.netlify.app/) |
+| 8️⃣ | Assigment-8 | [View](https://javascript-08.netlify.app/) |
 
 ## 🧠 Purpose
 These assignments help me strengthen my **JavaScript fundamentals**, improve **problem-solving skills**, and build a solid base for **front-end and back-end development**.
