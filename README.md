@@ -1,0 +1,48 @@
+# 🌟 JavaScript Assignments
+
+Welcome to my **JavaScript Assignments Repository**!  
+This repo includes all my JavaScript practice assignments, covering the basics to advanced logic building.
+
+---
+
+## 📚 Topics That I  Covered Yet
+- Variables & Data Types  
+- Operators  
+- Conditional Statements (`if`, `else if`, `switch`)  
+- Loops (`for`, `while`, `do...while`)  
+- Arrays & Array Methods  
+
+---
+
+
+## 🧩 Completed Assignments (1–9)
+
+| # | Assignment Name | Link |
+|---|------------------|------|
+| 1️⃣ | Assigment-1 | [View](https://javascripts-01.netlify.app/) |
+| 2️⃣ | Assigment-2 | [View](https://javascripts-02.netlify.app/) |
+| 3️⃣ | Assigment-3 | [View](https://javascripts-03.netlify.app/) |
+| 4️⃣ | Assigment-4 | [View](https://javascripts-04.netlify.app/) |
+| 5️⃣ | Assigment-5 | [View](https://javascripts-05.netlify.app/) |
+| 6️⃣ | Assigment-6 | [View](https://javascripts-06.netlify.app/) |
+| 7️⃣ | Assigment-7 | [View](https://javascripts-07.netlify.app/) |
+| 8️⃣ | Assigment-8 | [View](https://javascript-08.netlify.app/) |
+
+## 🧠 Purpose
+These assignments help me strengthen my **JavaScript fundamentals**, improve **problem-solving skills**, and build a solid base for **front-end and back-end development**.
+
+---
+
+## 🛠️ Tools Used
+- **Visual Studio Code** (Editor)  
+- **Node.js** (for running JS files)  
+- **Google Chrome Console** (for testing code)
+
+---
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/Onais-Shafi/Js-assingments.git
+
+
