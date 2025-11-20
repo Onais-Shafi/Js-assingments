@@ -29,8 +29,8 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 | 8️⃣ | Assigment-8 | [View](https://javascript-08.netlify.app/) |
 | 9️⃣ | Assigment-9 | [View](https://javascript-09.netlify.app/) |
 | 🔟 | Assigment-10 | [View](https://javascripts-10.netlify.app/) |
-| 9️⃣ | Assigment-11 | [View](http://jaavascripts-11.netlify.app/) |
-| 🔟 | Assigment-12 | [View](https://javascripts-12.netlify.app/) |
+| 1️⃣1️⃣| Assigment-11 | [View](http://jaavascripts-11.netlify.app/) |
+| 1️⃣2️⃣ | Assigment-12 | [View](https://javascripts-12.netlify.app/) |
 
 ## 🧠 Purpose
 These assignments help me strengthen my **JavaScript fundamentals**, improve **problem-solving skills**, and build a solid base for **front-end and back-end development**.
