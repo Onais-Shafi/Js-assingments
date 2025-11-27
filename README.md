@@ -33,7 +33,7 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 | 1️⃣2️⃣ | Assigment-12 | [View](https://javascripts-12.netlify.app/) |
 | 1️⃣3️⃣| Assigment-13 | [View](http://jaavascripts-11.netlify.app/) |
 | 1️⃣4️⃣ | Assigment-14 | [View](https://javascripts-12.netlify.app/) |
-| 1️⃣5️⃣| Assigment-15 | [View](https://java-caluc.netlify.app/) |
+| 1️⃣5️⃣| Assigment-15 | [View](https://javascript-calculatar.netlify.app/) |
 
 
 ## 🧠 Purpose
