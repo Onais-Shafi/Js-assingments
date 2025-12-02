@@ -31,9 +31,11 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 | 🔟 | Assigment-10 | [View](https://javascripts-10.netlify.app/) |
 | 1️⃣1️⃣| Assigment-11 | [View](http://jaavascripts-11.netlify.app/) |
 | 1️⃣2️⃣ | Assigment-12 | [View](https://javascripts-12.netlify.app/) |
-| 1️⃣3️⃣| Assigment-13 | [View](http://jaavascripts-11.netlify.app/) |
-| 1️⃣4️⃣ | Assigment-14 | [View](https://javascripts-12.netlify.app/) |
-| 1️⃣5️⃣| calculater| [View](https://javascript-calculatar.netlify.app/) |
+| 1️⃣3️⃣| Assigment-13 | [View](https://javascripts-13.netlify.app/) |
+| 1️⃣4️⃣ | Assigment-14 | [View](https://javascripts-14.netlify.app/) |
+| 1️⃣5️⃣ | Assigment-15 | [View](https://javascripts-15.netlify.app/#) |
+| 1️⃣6️⃣| calculater| [View](https://javascript-calculatar.netlify.app/) |
+| 1️⃣7️⃣| login page| [View](https://javascript-calculatar.netlify.app/) |
 
 
 ## 🧠 Purpose
