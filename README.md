@@ -35,7 +35,11 @@ This repo includes all my JavaScript practice assignments, covering the basics t
 | 1️⃣4️⃣ | Assigment-14 | [View](https://javascripts-14.netlify.app/) |
 | 1️⃣5️⃣ | Assigment-15 | [View](https://javascripts-15.netlify.app/#) |
 | 1️⃣6️⃣| calculater| [View](https://javascript-calculatar.netlify.app/) |
-| 1️⃣7️⃣| login page| [View](https://javascript-calculatar.netlify.app/) |
+| 1️⃣7️⃣| color changer| [View](https://colosr-changer.netlify.app/) |
+| 1️⃣8️⃣ | dark-light | [View](https://darked-lightmode.netlify.app/) |
+| 1️⃣9️⃣| see more see less| [View](https://hide-seeked.netlify.app/) |
+| 2️⃣0️⃣| js login page | [View](https://js-form-page.netlify.app/) |
+| 2️⃣1️⃣| facebook page| [View](https://faceb00k-page.netlify.app/) |
 
 
 ## 🧠 Purpose
